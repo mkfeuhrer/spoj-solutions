@@ -1,7 +1,11 @@
 # spoj-solutions
-here are solutions to some of the problems on competitive coding site spoj
-Check out my Profile and feel free to ping for any solved problem.
-http://www.spoj.com/users/mkfeuhrer/
+Here are solutions to some of the problems on competitive coding site SPOJ<br>
+Feel free to contribute your solutions in multiple languages.<br>
 
-Email : mohitfeuhrer@gmail.com
-MySite : https://mohitfeuhrer.wixsite.com/home
+<strong>Format : problem_name/problem_name.extension</strong><br>
+
+Check out my Profile and feel free to ping for any solved problem.<br>
+<a href = "http://www.spoj.com/users/mkfeuhrer"> Spoj Profile </a><br>
+
+<strong>Email :</strong> mohitfeuhrer@gmail.com<br>
+<strong>MySite :</strong> https://mohitfeuhrer.wixsite.com/home<br>
