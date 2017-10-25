@@ -42,7 +42,7 @@ void dfs(int row,int col, int depth)
 int main()
 {
      scanf("%d%d",&n,&m);
-     int t=0;
+     int t=0, u ;
      while(n!=0 && m!=0)
      {
           coun=0;
